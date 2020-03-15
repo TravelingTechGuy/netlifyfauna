@@ -1,0 +1,10 @@
+# Local Netlify folder
+.netlify
+# Editor settings
+.vscode
+# node modules
+node_modules
+# Functions build folder
+api
+# environment variables
+.env

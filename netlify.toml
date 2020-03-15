@@ -1,0 +1,4 @@
+[build]
+  functions = "api"
+  command = "yarn run build"
+  publish = "public"

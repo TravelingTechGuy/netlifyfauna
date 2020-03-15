@@ -1,0 +1,19 @@
+{
+  "name": "netlifyfauna",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run build",
+    "start:functions": "netlify-lambda serve src/functions --port 8888",
+    "build": "netlify-lambda build src/functions"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "faunadb": "^2.13.0",
+    "serverless-http": "^2.3.2"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
