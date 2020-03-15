@@ -2,7 +2,7 @@
 
 A demo repo showing use of CRUD API with FaunaDB using a Netlify function.
 
-To see the site in action: [Demo Site](https://netlifpress.netlify.com/).
+To see the site in action: [Demo Site](https://netlifyfauna.netlify.com/).
 
 ## Prepare FaunaDB to use the code
 
