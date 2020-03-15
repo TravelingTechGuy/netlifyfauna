@@ -20,6 +20,6 @@ No, or light error handling is included, and the logic is pretty naive and scrip
 1. Click the "Get" button to see all customers.
 1. Click "POST" to add a customer.
 1. Click "PUT" to change the customer's last name (verify that by clicking "GET" again).
-1. Click "DELTE" to delete the added customer.
+1. Click "DELETE" to delete the added customer.
 
 You cannot change or delete a user before creating it. The new record id is saved in a global variable, so refreshing the page will require you to start the equence again. As mentioned, naive 😊.
