@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
+    "encoding": "^0.1.12",
     "express": "^4.17.1",
     "faunadb": "^2.13.0",
     "serverless-http": "^2.3.2"
